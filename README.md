@@ -49,10 +49,7 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 
 <p align="center">
 <a href="https://github.com/krzysztofWyrzykowski">
-  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=krzysztofWyrzykowski&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
-</a>
-<a href="https://github.com/krzysztofWyrzykowski">
-  <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krzysztofWyrzykowski&langs_count=8&layout=compact&theme=default_repocard&hide_border=true" />
+  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=krzysztofWyrzykowski&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
 </p>
 
@@ -71,5 +68,5 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 </a>
 
 <a href="mailto:krzysztof.wyrzykowski1989@gmail.com">
-<img align="left" width="28" alt="Sagar Choudhary Mail" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/gmail.svg" />
+<img align="left" width="28" alt="KW Mail" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/gmail.svg" />
 </a>
