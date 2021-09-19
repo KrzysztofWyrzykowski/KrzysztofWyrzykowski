@@ -8,9 +8,10 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 - Content curator at Dailab
 - theFWA jury member
 - With over 21 awards including Webby, Awwwards, CSS Design Awards, and multiple FWAs.
--
-<br/>
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/surfer.svg" height="250" />
+
+<br/>
+
 
 - 📌 Living in **Spain, Tenerife**
 - 🔭 I’m currently working on CRISpy tips, Dailab content, CreativeCoding
