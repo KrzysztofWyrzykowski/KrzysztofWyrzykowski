@@ -2,7 +2,13 @@
 
 <br/>
 
-I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12257169/), an **Creative Full-Stack Developer**  CTO of Liki Mobile Solutions and FrontendHouse, Host, and producer of Frontend News and Experts zone podcast (at FrontendHouse) with over 21 awards including Webby, Awwwards, CSS Design Awards, and multiple FWAs.
+I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12257169/), an **Creative Full-Stack Developer**
+- CTO of Liki Mobile Solutions and FrontendHouse
+- Host, and producer of Frontend News and Experts zone podcast (at FrontendHouse)
+- Content curator at Dailab
+- theFWA jury member
+- With over 21 awards including Webby, Awwwards, CSS Design Awards, and multiple FWAs.
+-
 <br/>
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/surfer.svg" height="250" />
 
@@ -17,9 +23,6 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 <br/>
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,8 +32,8 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 <code><img height="35" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/pixi.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/three.png"></code>
 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
