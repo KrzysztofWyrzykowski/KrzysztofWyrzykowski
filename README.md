@@ -2,19 +2,18 @@
 
 <br/>
 
-I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12257169/), an **Creative Full-Stack Developer**
-- CTO of Liki Mobile Solutions and FrontendHouse
-- Host, and producer of Frontend News and Experts zone podcast (at FrontendHouse)
-- Content curator at Dailab
+I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12257169/), an **Creative Full-Stack Developer / Tech Director**
+- Unit9 Tech Director
 - theFWA jury member
-- With over 21 awards including Webby, Awwwards, CSS Design Awards, and multiple FWAs.
+- Former Host, and producer of Frontend News and Experts zone podcast (at FrontendHouse)
+- Former content curator at Dailab
+- With over 31 awards including Webby, Awwwards, CSS Design Awards, and multiple FWAs.
 <img align="right" alt="coding User Image" src="https://raw.githubusercontent.com/krzysztofWyrzykowski/krzysztofWyrzykowski/main/icons/surfer.svg" height="250" />
 
 <br/>
 
 
-- 📌 Living in **Spain, Tenerife**
-- 🔭 I’m currently working on CRISpy tips, Dailab content, CreativeCoding
+- 📌 Living in **Spain**
 - ⚡ Fun fact: My day is 25 hours long 😊
 
 <br/>
