@@ -3,7 +3,7 @@
 <br/>
 
 I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12257169/), an **Creative Full-Stack Developer / Tech Director**
-- Unit9 Tech Director
+- Kruko MD
 - theFWA jury member
 - Former Host, and producer of Frontend News and Experts zone podcast (at FrontendHouse)
 - Former content curator at Dailab
