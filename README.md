@@ -13,7 +13,7 @@ I'm [Krzysztof Wyrzykowski](https://www.linkedin.com/in/krzysztof-wyrzykowski-12
 <br/>
 
 
-- 📌 Living in **Spain**
+- 📌 Living in **Poland**
 - ⚡ Fun fact: My day is 25 hours long 😊
 
 <br/>
